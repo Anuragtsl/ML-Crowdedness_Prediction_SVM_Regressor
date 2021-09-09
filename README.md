@@ -33,13 +33,13 @@ The dataset consists of 26,000 people counts (about every 10 minutes) over the l
 * month (int; 1 [jan] - 12 [dec])
 * hour (int; 0 - 23)
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Crowdedness_Prediction_SVM_Regressor/blob/main/Crowdedness%20Prediction%20SVM%20Regressor.ipynb) for more!!***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Crowdedness_Prediction_SVM_Regressor/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Crowdedness_Prediction_SVM_Regressor/blob/main/Images/2.png)
 
 
 #Njoy!
